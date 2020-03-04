@@ -12,7 +12,7 @@ PM 2.5: Perticulate Matter 2.5 Microns
 PM 10: Perticulate Matter 10 Microns
 
 
-![Ranges](https://github.com/IoTAPM/IoT-Based-Air-Pollution-Monitoring-System/blob/master/pm_levels.png "PM 2.5/10 ranges")
+![Ranges](https://www.google.com/imgres?imgurl=https://www.airveda.com/resources/images/pm_levels.png&imgrefurl=https://www.airveda.com/blog/Understanding-Particulate-Matter-and-Its-Associated-Health-Impact&tbnid=k35Z4ssYzXHN9M&vet=1&docid=qMv7b-1U5UhauM&w=1351&h=414&q=pm+2.5+and+pm+10+safe+levels&hl=en-US&source=sh/x/im "PM 2.5/10 ranges")
 
 Methane (CH4):
 
