@@ -3,10 +3,9 @@ Channel ID : 971751 or <a href="https://thingspeak.com/channels/971751" rel="noo
 
 PM 2.5: Perticulate Matter 2.5 Microns
 
-	The short-term standard (24-hour or daily average) is 35 micrograms per cubic meter of air (µg/m3)
-	and the long-term standard (annual average) is 12 µg/m3.
-	A microgram is a unit of weight. There are a million micrograms in a gram,
-	and a pound is equal to about 450 grams.
+The short-term standard (24-hour or daily average) is 35 micrograms per cubic meter of air (µg/m3) and the long-term standard (annual average) is 12 µg/m3.
+A microgram is a unit of weight. There are a million micrograms in a gram, and a pound is equal to about 450 grams.
+	Particles in the PM2.5 size range are able to travel deeply into the respiratory tract, reaching the lungs. Exposure to fine particles can cause short-term health effects such as eye, nose, throat and lung irritation, coughing, sneezing, runny nose and shortness of breath. Exposure to fine particles can also affect lung function and worsen medical conditions such as asthma and heart disease. Scientific studies have linked increases in daily PM2.5 exposure with increased respiratory and cardiovascular hospital admissions, emergency department visits and deaths. Studies also suggest that long term exposure to fine particulate matter may be associated with increased rates of chronic bronchitis, reduced lung function and increased mortality from lung cancer and heart disease. People with breathing and heart problems, children and the elderly may be particularly sensitive to PM2.5.
 
 
 PM 10: Perticulate Matter 10 Microns
