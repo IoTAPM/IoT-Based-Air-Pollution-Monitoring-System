@@ -27,7 +27,7 @@ For Detailed information <a href="https://www.health.ny.gov/environmental/indoor
 PM 10: Particulate Matter 10 Microns
 
 	
-
+For Detailed information <a href="https://www.epa.gov/pm-pollution/particulate-matter-pm-basics" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this, 11837815);" class="external_link">Click Here</a>
 
 ![Ranges](https://github.com/IoTAPM/IoT-Based-Air-Pollution-Monitoring-System/blob/master/pm_levels.png "PM 2.5/10 ranges")
 
