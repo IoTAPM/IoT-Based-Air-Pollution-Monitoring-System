@@ -28,7 +28,8 @@ PM 10: Particulate Matter 10 Microns
 	
 For Detailed information <a href="https://www.epa.gov/pm-pollution/particulate-matter-pm-basics" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this, 11837815);" class="external_link">Click Here</a>
 
-![Ranges](https://github.com/IoTAPM/IoT-Based-Air-Pollution-Monitoring-System/blob/master/pm_levels.png "PM 2.5/10 ranges")
+<img src="https://www.google.com/imgres?imgurl=https://www.airveda.com/resources/images/pm_levels.png&imgrefurl=https://www.airveda.com/blog/Understanding-Particulate-Matter-and-Its-Associated-Health-Impact&tbnid=k35Z4ssYzXHN9M&vet=1&docid=qMv7b-1U5UhauM&w=1351&h=414&q=pm+2.5+and+pm+10+safe+levels&hl=en-US&source=sh/x/im" alt="PM2.5/10 Ranges"/>
+
 Methane (CH4):
 
 
