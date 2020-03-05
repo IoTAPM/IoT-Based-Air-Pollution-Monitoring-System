@@ -1,6 +1,8 @@
 Visit ThingSpeak channel for Graphical Data :
 Channel ID : 971751 or <a href="https://thingspeak.com/channels/971751" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this, 11837815);" class="external_link">Click Here</a>
 
+<img src="pm_levels.png" />
+
 PM 2.5: Particulate Matter 2.5 Microns
 
 	The term fine particles, or particulate matter 2.5 (PM2.5), refers to tiny particles or droplets in
@@ -28,7 +30,6 @@ PM 10: Particulate Matter 10 Microns
 	
 For Detailed information <a href="https://www.epa.gov/pm-pollution/particulate-matter-pm-basics" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this, 11837815);" class="external_link">Click Here</a>
 
-<img src="pm_levels.png" />
 
 Methane (CH4):
 
