@@ -33,9 +33,15 @@ For Detailed information <a href="https://www.epa.gov/pm-pollution/particulate-m
 
 Methane (CH4):
 
+<img src="CH4.jpg" />
+
 
 Carbon Monoxide (CO):
 
+<img src="CO.jpg" />
+
 
 Carbon Dioxide (CO2):
+<img src="CO2.jpg" />
+
 
